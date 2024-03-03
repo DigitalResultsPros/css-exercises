@@ -5,4 +5,12 @@ button {
     font-size: 28px;
 }
 
-#first
+#first {
+    background-color: black;
+    color: white;
+    font-weight: 700;
+}
+
+#second {
+    background-color: yellow;
+}
